@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+TrainingPlan = "448bc093-6e26-4f16-a79a-87e8426e863d"
